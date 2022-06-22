@@ -417,3 +417,14 @@
     font-family: sans-serif;
     font-weight: bolder;
 }
+
+
+
+/* MEDIA QUERY */
+
+@media only screen and (max-width: 768px) {
+  body {
+    background-color: #00003f;
+      display : none;
+  }
+}
